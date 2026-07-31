@@ -78,6 +78,7 @@ Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dov
 - Hydrogen
 - Oxygen
 - Shopify CLI
+- Shopify Hydrogen headless extension
 - ESLint
 - Prettier
 - GraphQL generator
@@ -108,6 +109,17 @@ npm run build
 ```bash
 npm run dev
 ```
+
+## Project screenshots
+
+Captured screenshots are saved in `public/images`:
+
+- `public/images/babouches-desktop.png`
+- `public/images/babouches-mobile.png`
+- `public/images/babouches-desktop-fullpage.png`
+- `public/images/babouches-mobile-fullpage.png`
+
+These show the homepage in desktop and mobile views, including full-page screenshots from top to bottom.
 
 ## Setup for using Customer Account API (`/account` section)
 
